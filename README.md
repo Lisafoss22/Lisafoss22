@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Lisafoss22/Lisafoss22/blob/main/Data%20Analyst%20Linkedin%20Background%20.png)
 <h1 align="center">Hi 👋, I'm LISA ROMAN FOSS</h1>
 <h3 align="center">🌟 Exploring the World of Data Analytics-From data wrangling to predictive modeling - I cover it all.</h3>
 
